@@ -1,6 +1,5 @@
 # Web Programlama ve Tasarım - Temel Sayfa Tasarımı
-
-Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğini sunmaktadır. Sayfa, HTML işaretleme dili ile yapılandırılmış ve CSS ile stilize edilmiştir. Bu sayfa, web programlamanın temel unsurlarını öğrenmek isteyenler için bir örnek teşkil etmektedir.
+- Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğini sunmaktadır. Sayfa, HTML işaretleme dili ile yapılandırılmış ve CSS ile stilize edilmiştir. Bu sayfa, web programlamanın temel unsurlarını öğrenmek isteyenler için bir örnek teşkil etmektedir.
 
 # Özellikler
 
@@ -15,12 +14,27 @@ Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğin
 
 # Kurulum
 
-Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
-
+- Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
+  
 1) Bu projeyi GitHub'dan indirin veya bu repository'yi bilgisayarınıza klonlayın.
 git clone https://github.com/kullanici_adiniz/web-programlama-tasarim.git
 2) index.html dosyasını bir web tarayıcısında açarak sayfayı görüntüleyebilirsiniz.
 - Tarayıcıda açmak için:
 - Dosyaya sağ tıklayın ve "Open with" seçeneği ile tercih ettiğiniz tarayıcıyı seçin.
 4) Projede yer alan style.css dosyası ile sayfa tasarımı değiştirebilir ve özelleştirebilirsiniz.
+
+# Kullanım
+
+- Sayfa üzerinde metinler, başlıklar, listeler ve bağlantılar gibi temel web sayfası öğeleri yer almaktadır. Bu öğeler üzerinde değişiklik yaparak web tasarımıyla ilgili temel bilgileri öğrenebilir ve özelleştirebilirsiniz.
+
+# Bağlantılar
+
+1) Ana Sayfa: Sayfada gezinmek için kullanılabilir bir ana sayfa bağlantısı.
+2) Google: Harici bir bağlantı olarak Google'a yönlendiren bir buton.
+3) Liste.zip: WinRAR'a yönlendiren bir bağlantı.
+
+# Katkı
+- Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
+1) Repository'yi fork'layın.
+2) Pull request oluşturun.
 
