@@ -1,5 +1,6 @@
 # Web Programlama ve Tasarım - Temel Sayfa Tasarımı
-- Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğini sunmaktadır. Sayfa, HTML işaretleme dili ile yapılandırılmış ve CSS ile stilize edilmiştir. Bu sayfa, web programlamanın temel unsurlarını öğrenmek isteyenler için bir örnek teşkil etmektedir.
+
+Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğini sunmaktadır. Sayfa, HTML işaretleme dili ile yapılandırılmış ve CSS ile stilize edilmiştir. Bu sayfa, web programlamanın temel unsurlarını öğrenmek isteyenler için bir örnek teşkil etmektedir.
 
 # Özellikler
 
@@ -30,9 +31,8 @@ git clone https://github.com/kullanici_adiniz/web-programlama-tasarim.git
 # Bağlantılar
 
 1) Ana Sayfa: Sayfada gezinmek için kullanılabilir bir ana sayfa bağlantısı.
-2) 
-3) Google: Harici bir bağlantı olarak Google'a yönlendiren bir buton.
-4) Liste.zip: WinRAR'a yönlendiren bir bağlantı.
+2) Google: Harici bir bağlantı olarak Google'a yönlendiren bir buton.
+3) Liste.zip: WinRAR'a yönlendiren bir bağlantı.
 
 # Katkı
 Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
