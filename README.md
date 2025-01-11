@@ -30,11 +30,12 @@ git clone https://github.com/kullanici_adiniz/web-programlama-tasarim.git
 # Bağlantılar
 
 1) Ana Sayfa: Sayfada gezinmek için kullanılabilir bir ana sayfa bağlantısı.
-2) Google: Harici bir bağlantı olarak Google'a yönlendiren bir buton.
-3) Liste.zip: WinRAR'a yönlendiren bir bağlantı.
+2) 
+3) Google: Harici bir bağlantı olarak Google'a yönlendiren bir buton.
+4) Liste.zip: WinRAR'a yönlendiren bir bağlantı.
 
 # Katkı
-- Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
+Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
 1) Repository'yi fork'layın.
 2) Pull request oluşturun.
 
