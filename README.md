@@ -1,4 +1,4 @@
-# Web Programlama ve Tasarım - Basic Sayfa Tasarımı
+# Basic Sayfa Tasarımı
 
 Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğini sunmaktadır. Sayfa, HTML işaretleme dili ile yapılandırılmış ve CSS ile stilize edilmiştir. Bu sayfa, web programlamanın temel unsurlarını öğrenmek isteyenler için bir örnek teşkil etmektedir.
 
