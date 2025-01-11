@@ -6,7 +6,7 @@ Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğin
 
 1) HTML elemanları kullanılarak yapılandırılmış bir sayfa.
 2) Sayfa içerikleri, başlıklar, paragraflar ve listeler ile düzenlenmiş.
-3) CSS ile temel stil ve tasarım eklenmiş.
+3) CSS ile stil ve tasarım eklenmiş.
 4) Sayfanın alt kısmında, dışa linkler (Google, WinRAR) ve "Ana Sayfa", "Sayfa Başı" gibi bağlantılar içeren bir navigasyon barı.
 
 # Teknolojiler
