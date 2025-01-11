@@ -15,7 +15,7 @@ Bu proje, temel HTML ve CSS kullanarak bir web sayfası tasarımının örneğin
 
 # Kurulum
 
-- Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
+Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
   
 1) Bu projeyi GitHub'dan indirin veya bu repository'yi bilgisayarınıza klonlayın.
 git clone https://github.com/kullanici_adiniz/web-programlama-tasarim.git
