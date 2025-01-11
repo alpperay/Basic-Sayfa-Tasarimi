@@ -26,7 +26,7 @@ git clone https://github.com/kullanici_adiniz/web-programlama-tasarim.git
 
 # Kullanım
 
-- Sayfa üzerinde metinler, başlıklar, listeler ve bağlantılar gibi temel web sayfası öğeleri yer almaktadır. Bu öğeler üzerinde değişiklik yaparak web tasarımıyla ilgili temel bilgileri öğrenebilir ve özelleştirebilirsiniz.
+Sayfa üzerinde metinler, başlıklar, listeler ve bağlantılar gibi temel web sayfası öğeleri yer almaktadır. Bu öğeler üzerinde değişiklik yaparak web tasarımıyla ilgili temel bilgileri öğrenebilir ve özelleştirebilirsiniz.
 
 # Bağlantılar
 
