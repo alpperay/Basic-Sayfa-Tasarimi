@@ -36,6 +36,6 @@ Sayfa üzerinde metinler, başlıklar, listeler ve bağlantılar gibi temel web 
 
 # Katkı
 Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
-1) Repository'yi fork'layın.
-2) Pull request oluşturun.
+1) GitHub reposunu fork edin,
+2) Kendi değişikliklerinizi yapın ve pull request gönderin.
 
