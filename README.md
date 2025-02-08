@@ -21,10 +21,10 @@ Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilir
 ````bash
 git clone <repo-url>
 ````
-3) index.html dosyasını bir web tarayıcısında açarak sayfayı görüntüleyebilirsiniz.
+2) index.html dosyasını bir web tarayıcısında açarak sayfayı görüntüleyebilirsiniz.
 - Tarayıcıda açmak için:
 - Dosyaya sağ tıklayın ve "Open with" seçeneği ile tercih ettiğiniz tarayıcıyı seçin.
-4) Projede yer alan style.css dosyası ile sayfa tasarımı değiştirebilir ve özelleştirebilirsiniz.
+3) Projede yer alan style.css dosyası ile sayfa tasarımı değiştirebilir ve özelleştirebilirsiniz.
 
 ## Kullanım
 
